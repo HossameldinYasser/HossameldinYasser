@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Hossameldin%20Yasser&fontSize=40&fontColor=ffffff&desc=Robotics%20%26%20Automation%20Engineering&descAlignY=72&descSize=18" alt="banner"/>
+  <img src="banner.jpg" width="100%" alt="banner"/>
 </p>
 
 <p align="center">
